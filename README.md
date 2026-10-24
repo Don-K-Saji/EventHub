@@ -85,12 +85,6 @@ python manage.py runserver
 ```
 The server will start at `http://127.0.0.1:8000/`.
 
-### 6. Run Automated Tests
-```bash
-python manage.py test
-```
-All 11 unit & integration tests will execute and verify models, serializers, API filtering, error validation, and middleware logging.
-
 ---
 
 ## 🔌 API Endpoints Documentation
